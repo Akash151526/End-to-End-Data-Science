@@ -15,3 +15,10 @@ In the deployment stage, a web interface is created where users can input the nu
 This project demonstrates the entire lifecycle of a data science solution, including data collection, preprocessing, model training, model persistence, and deployment. It shows how machine learning models can be transformed into practical tools that users can access through a web interface. Even though the dataset and model are simple, the project provides a clear understanding of how real-world machine learning applications are developed and deployed.
 
 Overall, the project serves as a beginner-friendly example of combining data science and web development. It helps in understanding how predictive models can support decision-making and how Python-based tools can be used to build scalable and interactive data-driven applications.
+
+<img width="1454" height="694" alt="Image" src="https://github.com/user-attachments/assets/ee420085-fb71-4cb1-aaa2-8fdee005ff7d" />
+
+<img width="537" height="279" alt="Image" src="https://github.com/user-attachments/assets/60429a6d-14f6-4b9a-ba07-43a1f227b830" />
+
+<img width="643" height="304" alt="Image" src="https://github.com/user-attachments/assets/241f2612-ffc1-4ebd-8f4c-ac3702d59860" />
+
